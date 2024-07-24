@@ -1,0 +1,137 @@
+{
+  "main": {
+    "name": "Joshua Agbo",
+    "occupation": "CEO of Gems Technology",
+    "description": "I eat, sleep and breathe React/React Native",
+    "image": "profile.jpeg",
+    "bio": "Hi there! I am Joshua! You might also know me as Josh React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
+    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "email": "developer.gemjoshua@gmail.com",
+    "phone": "+234 9016612722",
+    "address": {
+      "street": "Westend Rd.",
+      "city": "Nigeria",
+      "state": "Kwara State",
+      "zip": "241103"
+    },
+    "website": "https://joshag.vercel.app/",
+    "resumedownload": "https://joshag.vercel.app/",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/@joshag",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/josh.ag",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/gemjoshua",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/jo_sh_ag/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/josh-ag",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Kwara State University - Nigeria",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "Student",
+        "description": "Graduating with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Gems Technology",
+        "title": "Founder and CEO",
+        "years": "May 2019 - Present",
+        "description": "Appplication Development Services"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Typescript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name": "Mobile Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Krypto",
+        "category": "Mobile",
+        "image": "krypto.png",
+        "url": "https://www.upwork.com/freelancers/~01e654819a1555e31b?p=1705461284832276480"
+      },
+      {
+        "title": "Tobams",
+        "category": "Mobile",
+        "image": "tobams.png",
+        "url": "https://www.upwork.com/freelancers/~01e654819a1555e31b?p=1750908550083485696"
+      },
+
+      {
+        "title": "Tublian Onboarding",
+        "category": "Web",
+        "image": "tublian.png",
+        "url": "https://tublian-challenge-vert.vercel.app/"
+      },
+      {
+        "title": "Xclusive Carts",
+        "category": "Web",
+        "image": "xclusive-cart.png",
+        "url": "https://exclusive-cart.onrender.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Joshua is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
